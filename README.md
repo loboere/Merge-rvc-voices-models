@@ -1,7 +1,7 @@
 [notebook](merge_rvc_voice_models.ipynb) [![][colab]][colab-cin].
 
 [colab]: <https://colab.research.google.com/assets/colab-badge.svg>
-[colab-cin]: <https://colab.research.google.com/github/loboere/latent-diffusion-inpainting-colab/blob/main/merge_rvc_voice_models.ipynb>
+[colab-cin]: <https://github.com/loboere/Merge-rvc-voices-models-colab/blob/main/merge_rvc_voice_models.ipynb>
 
 A  notebook for merging RVC voice models
 
